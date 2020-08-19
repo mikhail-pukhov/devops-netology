@@ -15,24 +15,6 @@
 crash.log
 
 # Игнорировать фалы с расширением tfvars
-
-# Игнорировать все файлы с расширением tfstate и файлы в имени которых есть слово tfstate c любым расширением 
-*.tfstate
-*.tfstate.*
-
-# Игнорировать файл crash.log
-crash.log
-
-# Игнорировать фалы с расширением tfvars
-
-# Игнорировать все файлы с расширением tfstate и файлы в имени которых есть слово tfstate c любым расширением 
-*.tfstate
-*.tfstate.*
-
-# Игнорировать файл crash.log
-crash.log
-
-# Игнорировать фалы с расширением tfvars
 *.tfvars
 
 # Игнорировать файл override.tf и файл override.tf.json а также любые файлы заканчивающиеся на _override.tf и на _override.tf.json
