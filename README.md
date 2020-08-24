@@ -15,6 +15,7 @@
 crash.log
 
 # Игнорировать фалы с расширением tfvars
+
 *.tfvars
 
 # Игнорировать файл override.tf и файл override.tf.json а также любые файлы заканчивающиеся на _override.tf и на _override.tf.json
@@ -27,7 +28,8 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-test
 
-
+new line
+new line
+new line
 
